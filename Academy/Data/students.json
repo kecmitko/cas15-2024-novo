@@ -1,0 +1,272 @@
+﻿[
+  {
+    "Name": "John",
+    "Age": 20,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 90
+      },
+      {
+        "SubjectName": "Mathematics",
+        "Description": "Calculus and algebra",
+        "Grade": 99
+      }
+    ]
+  },
+  {
+    "Name": "Alice",
+    "Age": 21,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 88
+      },
+      {
+        "SubjectName": "Physics",
+        "Description": "Classical mechanics and electromagnetism",
+        "Grade": 92
+      }
+    ]
+  },
+  {
+    "Name": "Michael",
+    "Age": 19,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 87
+      },
+      {
+        "SubjectName": "Biology",
+        "Description": "Cellular and molecular biology",
+        "Grade": 91
+      },
+      {
+        "SubjectName": "Chemistry",
+        "Description": "Inorganic and organic chemistry",
+        "Grade": 89
+      }
+    ]
+  },
+  {
+    "Name": "Emily",
+    "Age": 22,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 85
+      },
+      {
+        "SubjectName": "English Literature",
+        "Description": "Shakespeare and modern literature",
+        "Grade": 90
+      },
+      {
+        "SubjectName": "History",
+        "Description": "World history and political science",
+        "Grade": 88
+      }
+    ]
+  },
+  {
+    "Name": "Daniel",
+    "Age": 20,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 89
+      },
+      {
+        "SubjectName": "Art",
+        "Description": "Painting and sculpture",
+        "Grade": 86
+      }
+    ]
+  },
+  {
+    "Name": "Sophia",
+    "Age": 21,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 92
+      },
+      {
+        "SubjectName": "Music",
+        "Description": "Composition and music theory",
+        "Grade": 87
+      },
+      {
+        "SubjectName": "Psychology",
+        "Description": "Behavioral and cognitive psychology",
+        "Grade": 90
+      }
+    ]
+  },
+  {
+    "Name": "Matthew",
+    "Age": 19,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 88
+      },
+      {
+        "SubjectName": "Geography",
+        "Description": "Physical and human geography",
+        "Grade": 85
+      },
+      {
+        "SubjectName": "Economics",
+        "Description": "Microeconomics and macroeconomics",
+        "Grade": 89
+      }
+    ]
+  },
+  {
+    "Name": "Olivia",
+    "Age": 22,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 90
+      },
+      {
+        "SubjectName": "Chemistry",
+        "Description": "Inorganic and organic chemistry",
+        "Grade": 88
+      }
+    ]
+  },
+  {
+    "Name": "William",
+    "Age": 20,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 91
+      },
+      {
+        "SubjectName": "Spanish",
+        "Description": "Grammar and conversation",
+        "Grade": 85
+      },
+      {
+        "SubjectName": "Physical Education",
+        "Description": "Sports and fitness",
+        "Grade": 87
+      }
+    ]
+  },
+  {
+    "Name": "Isabella",
+    "Age": 21,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 89
+      },
+      {
+        "SubjectName": "French",
+        "Description": "Language and culture",
+        "Grade": 86
+      }
+    ]
+  },
+  {
+    "Name": "James",
+    "Age": 19,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 87
+      },
+      {
+        "SubjectName": "Computer Science",
+        "Description": "Algorithms and data structures",
+        "Grade": 92
+      }
+    ]
+  },
+  {
+    "Name": "Charlotte",
+    "Age": 22,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 90
+      },
+      {
+        "SubjectName": "Sociology",
+        "Description": "Social theory and research methods",
+        "Grade": 88
+      }
+    ]
+  },
+  {
+    "Name": "Benjamin",
+    "Age": 20,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 88
+      },
+      {
+        "SubjectName": "Philosophy",
+        "Description": "Ethics and metaphysics",
+        "Grade": 85
+      }
+    ]
+  },
+  {
+    "Name": "Amelia",
+    "Age": 21,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 92
+      },
+      {
+        "SubjectName": "Drama",
+        "Description": "Acting and theater production",
+        "Grade": 87
+      },
+      {
+        "SubjectName": "Health Education",
+        "Description": "Wellness and disease prevention",
+        "Grade": 90
+      }
+    ]
+  },
+  {
+    "Name": "Henry",
+    "Age": 19,
+    "Subjects": [
+      {
+        "SubjectName": "C# Advanced",
+        "Description": "Object-oriented programming in C#",
+        "Grade": 89
+      },
+      {
+        "SubjectName": "Earth Science",
+        "Description": "Geology and meteorology",
+        "Grade": 86
+      }
+    ]
+  }
+]

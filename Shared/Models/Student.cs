@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Shared.Models
 {
-    internal class Student
+    public class Student
     {
+        public string Name { get; set; }
+        public int Age { get; set; }
+        public List<Subject> Subjects { get; set; }
     }
 }
